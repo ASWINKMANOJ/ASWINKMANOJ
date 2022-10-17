@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ASWINKMANOJ
+- 👀 I’m interested in python,c++, and javascript
+- 🌱 I’m currently learning learning python while pursuing by bachelors in computer science at lovely professional university
+- 💞️ I’m looking to collaborate on python,c++ and javascript projects
+- 📫 How to reach me email: aswinkmanoj101@gmail.com and twitter: @thisisaswink
