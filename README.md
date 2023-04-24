@@ -1,4 +1,4 @@
-# Aswin K Manoj
+# Aswin K M
 
 I am a Computer Science and Engineering student currently pursuing my Bachelor's degree. My areas of interest include machine learning and AI, and I am planning to explore these fields further in the future.
 
