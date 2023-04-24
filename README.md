@@ -14,8 +14,7 @@ I am a Computer Science and Engineering student currently pursuing my Bachelor's
 ## Projects
 
 - [Project 1](https://github.com/ASWINKMANOJ/100-Days-of-Project)
-- [Project 2](https://github.com/yourusername/project2)
-- [Project 3](https://github.com/yourusername/project3)
+- [Project 2](https://github.com/ASWINKMANOJ/React-practice-problems)
 
 ## Contact Me
 
