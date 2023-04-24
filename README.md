@@ -21,5 +21,5 @@ I am a Computer Science and Engineering student currently pursuing my Bachelor's
 
 - Email: aswinkmanoj101@gmail.com
 - LinkedIn: [Aswin K Manoj](www.linkedin.com/in/aswin-k-
-manoj)
+manoj/)
 - Twitter: [@achooaswinjr](https://twitter.com/achooaswinjr)
